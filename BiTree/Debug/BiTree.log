@@ -1,0 +1,5 @@
+﻿  BiTree.cpp
+C:\Users\Cortmiem\source\repos\BiTree\BiTree\BiTree.cpp(9,9): warning C4101: “Temp”: 未引用的局部变量
+C:\Users\Cortmiem\source\repos\BiTree\BiTree\BiTree.cpp(120): warning C4715: “PrintTree”: 不是所有的控件路径都返回值
+C:\Users\Cortmiem\source\repos\BiTree\BiTree\BiTree.cpp(200): warning C4715: “PostOrderTraverse”: 不是所有的控件路径都返回值
+  BiTree.vcxproj -> C:\Users\Cortmiem\source\repos\BiTree\Debug\BiTree.exe
